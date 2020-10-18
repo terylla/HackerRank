@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Solve Me First"/>
+	<classpathentry kind="src" path="SimpleArraySum"/>
+	<classpathentry kind="src" path="CompareTheTriplets"/>
+	<classpathentry kind="src" path="AVeryBigSum"/>
+	<classpathentry kind="src" path="DiagonalDifference"/>
+	<classpathentry kind="src" path="SalesByMatch"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
