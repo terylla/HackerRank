@@ -1,8 +1,10 @@
-	import java.io.*;
+// Day 1: Data Types
+
+//import java.io.*;
 	import java.util.*;
-	import java.text.*;
-	import java.math.*;
-	import java.util.regex.*;
+	//import java.text.*;
+	//import java.math.*;
+	//import java.util.regex.*;
 
 	public class Day1 {
 		
